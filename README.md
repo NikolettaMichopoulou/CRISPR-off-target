@@ -1,2 +1,2 @@
 # CRISPR-off-target
-Repository for review article.
+Repository for article review.
